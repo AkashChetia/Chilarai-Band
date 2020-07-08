@@ -1,6 +1,5 @@
 # Chilarai-Band
-Project for Shayak 1.0 Hackathon
-
+Project for Shayak 1.0 Hackathon[Chilarai(teamname) made till Top 30]
 <ins>**Problem Statement**</ins>: People with memory loss problems (both short and long term) often forget to maintain sanitization particularly hand washing.
 
                                                      Project title and overview
